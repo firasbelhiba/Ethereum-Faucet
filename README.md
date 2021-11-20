@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Ethereum faucet application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a reward system application that is designed to award users Ethereum for completing tasks like solving captcha. Anyone who wants to own some Ethereum but they do not have enough money to buy any or acquire a mining rig , they can go for this Ethereum faucet.
+
+
 
 ## Available Scripts
 
